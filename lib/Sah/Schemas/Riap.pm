@@ -6,6 +6,6 @@ package Sah::Schemas::Riap;
 1;
 # ABSTRACT: Sah schemas related to Riap
 
-=head1 SEE ALSO
+=head1 append:SEE ALSO
 
 L<Riap>
